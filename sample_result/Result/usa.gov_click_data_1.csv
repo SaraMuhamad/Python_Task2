@@ -1,0 +1,9 @@
+web_browser,operating_sys,from_url,to_url,city,time_zone,time_in,time_out,longitude,latitude
+Mozilla/5.0 , AppleWebKit/535.11 ,www.facebook.com,www.ncbi.nlm.nih.gov,Danvers,America/New_York,2012-04-01 19:03:50.000,1970-01-16 10:21:47.037,42.576698,-70.954903
+Mozilla/4.0 ,,t.co,boxer.senate.gov,Washington,America/New_York,2012-04-02 22:50:30.000,1970-01-16 10:23:27.035,38.9007,-77.043098
+Mozilla/5.0 , AppleWebKit/534.52.7 ,direct,apod.nasa.gov,Braz,America/Sao_Paulo,2012-04-04 02:37:10.000,1970-01-16 10:25:07.044,-23.549999,-46.616699
+Mozilla/5.0 , AppleWebKit/535.11 ,www.shrewsbury-ma.gov,www.shrewsbury-ma.gov,Shrewsbury,America/New_York,2012-04-05 06:23:50.000,1970-01-16 10:26:47.039,42.286499,-71.714699
+Mozilla/5.0 , AppleWebKit/535.11 ,www.shrewsbury-ma.gov,www.shrewsbury-ma.gov,Shrewsbury,America/New_York,2012-04-06 10:10:30.000,1970-01-16 10:28:27.048,42.286499,-71.714699
+Mozilla/5.0 , AppleWebKit/535.11 ,plus.url.google.com,www.nasa.gov,Luban,Europe/Warsaw,2012-04-07 13:57:10.000,1970-01-16 10:30:07.040,51.116699,15.2833
+Mozilla/5.0 , Gecko/20100101 Firefox/10.0.2,direct,www.nysdot.gov,Seattle,America/Los_Angeles,2012-04-11 01:17:10.000,1970-01-16 10:35:07.040,47.5951,-122.332603
+Mozilla/5.0 , Gecko/20120216 Firefox/3.6.27,t.co,oversight.house.gov,Washington,America/New_York,2012-04-12 05:04:00.000,1970-01-16 10:36:47.043,38.937599,-77.092796
