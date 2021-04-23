@@ -1,0 +1,8 @@
+
+
+
+
+#schedule job to be done every midnight and sending mail in case of failure
+MAILTO=ramohamed_sayed@hotmail..com
+0 0 * * * /home/sara/Desktop/ITI_Python_for_Data_Management/Task2/MyScript/script_scheduler.sh >/dev/null
+
